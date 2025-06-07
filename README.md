@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Next.js & Laravel 11 Build a Modern Full-Stack Application
 
-## Getting Started
+Unlock the power of modern web development with Next.js and Laravel 11 in this hands-on, project-based course! Whether you’re a beginner or an experienced developer looking to expand your skill set, this course will guide you step-by-step through building a robust full-stack application. Combining the scalability of Next.js for the frontend with the strength of Laravel 11 on the backend, you'll gain real-world experience in crafting dynamic, high-performing web applications.
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+What You’ll Learn:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Master Next.js, the React-based framework for building lightning-fast, SEO-friendly web applications.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Harness the power of Laravel 11, the leading PHP framework, to create secure and efficient backends.
 
-## Learn More
+Integrate RESTful APIs seamlessly between Next.js and Laravel.
 
-To learn more about Next.js, take a look at the following resources:
+Implement authentication, authorization, and custom email verification features.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Manage and query relational databases with ease using Laravel’s Eloquent ORM.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Deploy your full-stack application to production with industry best practices.
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Why This Course?
+
+The demand for developers with expertise in both Next.js and Laravel is growing rapidly. By mastering these cutting-edge technologies, you'll stand out in the competitive job market. This course is designed to give you a deep understanding of how to build modern, scalable, and secure web applications using a powerful tech stack.
+
+
+Don’t miss the opportunity to take your web development skills to the next level. Enroll now and start building modern full-stack applications with Next.js and Laravel 11 today!
+
+Ce que vous allez apprendre
+React js Fundamental
+Next js Fundamental
+Complete Design for Frontend with Next JS
+Backend with Laravel 11
+Two-Factor Authentication (2FA) Using a Verification Code
+Customize Admin Template Setup
+Laravel Breeze Forget and Reset Password
+Image Upload with Image intervention 3
+Create Full Frontend API with API
+Full API Base Complete Project
+Build Backend API with Postman
+Create Total Frontend Design with Tailwind css
+User Authentication
+Build Complete Full-Stack Application
+Create Get and Post API From Backend
+Y a-t-il des exigences ou prérequis pour ce cours ?
+Basic Understanding of JavaScript
+Good Grasp of Tailwind CSS
+HTML and CSS Knowledge
+Basic Command Line Knowledge
+À qui ce cours s'adresse-t-il ?
+Aspiring developers who want to learn full-stack development.
+Backend developers looking to transition into frontend technologies like Next JS
+Frontend developers who want to enhance their backend skills using Laravel 11
+Entrepreneurs and startups aiming to build scalable web solutions
