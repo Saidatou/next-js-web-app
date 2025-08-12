@@ -103,11 +103,11 @@ const Menu = () => {
                             </a>
                             </li>
 
-                            <li className='nav-item-mobile h-full flex-column gap-2 pt-2 pl-3 pr-3 pb-2 pointer'>
+                            {/* <li className='nav-item-mobile h-full flex-column gap-2 pt-2 pl-3 pr-3 pb-2 pointer'>
                             <a className='nav-link-mobile flex items-center justify-between' href='/case-studies'>
                             <span className='body2 font-bold'>Case Studies </span>
                             </a>
-                            </li>
+                            </li> */}
 
                             <li className='nav-item-mobile h-full flex-column gap-2 pt-2 pl-3 pr-3 pb-2 pointer'>
                             <a className='nav-link-mobile flex items-center justify-between' href='/blog'>
